@@ -36,6 +36,7 @@ WebStrongOS is a own distro created basic Debian 9 intended for web programmers.
 -Skype <br />
 -LibreOffice package <br />
 -Papirus Icons <br />
+-Ant-Dracula Style <br />
 -Gnome (+basic Gnome packages)
 
 ## Basic info
@@ -43,6 +44,7 @@ Name: <b>WebStrongOS</b> <br />
 Architecture: <b>AMD64 (x86_64)</b> <br />
 Basic: <b>Debian 9</b> <br />
 Version: <b>1.1</b> <br />
+ISO size: <b>2,23GB</b> </br />
 Type: <b>Hybrid ISO</b>
 
 #### Created by
