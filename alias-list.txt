@@ -1,27 +1,32 @@
 ### ALIAS LIST ###
 
-# Basic alias
-alias ls='ls --color=auto'
-alias diroot='sudo nautilus'
+# Basic alias #
+alias ls="ls --color=auto"
+alias diroot="sudo nautilus"
+alias chmod="chmod -R"
+alias aliasls="cat ~/Documents/alias"
 
-# Git alias
-alias gitnote='nano ~/Documents/git'
-alias gits='git status'
+# Git alias #
+alias gitnote="nano ~/Documents/git"
+alias gits="git status"
 
-# Web alias
-alias www='cd /var/www/html/'
-alias mysql="mysql -u root -p"
+# Web alias #
+alias www="cd /var/www/html/"
+alias sql="mysql -u root -p"
 alias apache="service apache2 start"
 alias mysql="service mysql start"
+alias mongod="service mongod start"
 
-# NodeJS alias
-alias npmserv='npm run serve'
-alias vuenew='vue create'
+# NodeJS alias #
+alias npmserv="npm run serve"
+alias vuenew="vue create"
+alias reactnew="npx create-react-app"
+alias reactserv="npm start"
 
-# Symfony alias
-alias sfconsole='php bin/console'
-alias sfrun='php -S 127.0.0.1:8000 -t public'
-alias sfnew='composer create-project symfony/website-skeleton'
+# Symfony alias #
+alias sfconsole="php bin/console"
+alias sfrun="php -S 127.0.0.1:8000 -t public"
+alias sfnew="composer create-project symfony/website-skeleton"
 alias sfdoctrie="composer require symfony/orm-pack && composer require symfony/maker-bundle --dev"
 alias sfnewdoctrine="php bin/console doctrine:database:create"
 alias sfroute="composer require annotations"
@@ -33,3 +38,10 @@ alias sfmigrationupdate="php bin/console doctrine:migrations:migrate"
 alias sfcontroller="php bin/console make:controller"
 alias sfgeneratedb="php bin/console doctrine:mapping:import 'App\Entity' annotation --path=src/Entity"
 alias sfgenerateclasses="php bin/console make:entity --regenerate App"
+
+# Ruby on Rails alias #
+alias rubyserv="bin/rails server"
+alias rubyroutes="bin/rails routers"
+alias rubycontroller="bin/rails generate controller"
+alias rubymodel="bin/rails generate model"
+alias rubymigration="bin/rails db:migrate"
