@@ -1,2 +1,4 @@
 #!/bin/sh
-python ~/Documents/python/poweroff.py $*
+# Created by Mateusz Pijanowski (WebStrong)
+
+python /bin/poweroff.py $*
