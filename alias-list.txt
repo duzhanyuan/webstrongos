@@ -2,8 +2,6 @@
 
 # Basic alias #
 alias ls="ls --color=auto"
-alias diroot="sudo nautilus"
-alias chmod="chmod -R"
 alias aliasls="cat ~/Documents/alias"
 
 # Git alias #
