@@ -1,7 +1,7 @@
 import os
 import sys
 
-before_sd = 'echo "WebStrongOS v2.0\n"'
+before_sd = 'echo WebStrongOS 1.3 && echo'
 sd_params = ''
 time = 'now'
 

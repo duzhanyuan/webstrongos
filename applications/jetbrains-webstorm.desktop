@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=WebStorm
+Icon=/usr/lib/WebStorm/bin/webstorm.png
+Path=/usr/lib/WebStorm
+Exec="/usr/lib/WebStorm/bin/webstorm.sh" %f
+Comment=Lightning-smart PHP IDE
+Categories=Development;IDE;
+OnlyShowIn=Unity;GNOME;
+StartupNotify=false
+Terminal=false
+StartupWMClass=WebStorm

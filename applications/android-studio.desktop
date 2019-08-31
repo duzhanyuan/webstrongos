@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Android Studio
+Icon=/usr/lib/android-studio/bin/studio.png
+Path=/usr/lib/android-studio
+Exec=/usr/lib/android-studio/bin/studio.sh
+StartupNotify=false
+StartupWMClass=AndroidStudio
+OnlyShowIn=Unity;GNOME;
+X-UnityGenerated=true

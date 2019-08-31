@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=PhpStorm
+Icon=/usr/lib/PhpStorm/bin/phpstorm.png
+Path=/usr/lib/PhpStorm
+Exec="/usr/lib/PhpStorm/bin/phpstorm.sh" %f
+Comment=Lightning-smart PHP IDE
+Categories=Development;IDE;
+OnlyShowIn=Unity;GNOME;
+StartupNotify=false
+Terminal=false
