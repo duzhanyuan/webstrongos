@@ -6,7 +6,6 @@ Name=PyCharm
 Icon=/usr/lib/PyCharm-edu/bin/pycharm.png
 Path=/usr/lib/PyCharm-edu
 Exec="/usr/lib/PyCharm-edu/bin/pycharm.sh" %f
-Comment=Lightning-smart PHP IDE
 Categories=Development;IDE;
 OnlyShowIn=Unity;GNOME;
 StartupNotify=false

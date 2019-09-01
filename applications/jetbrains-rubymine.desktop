@@ -6,7 +6,6 @@ Name=RubyMine
 Icon=/usr/lib/RubyMine/bin/rubymine.png
 Path=/usr/lib/RubyMine
 Exec="/usr/lib/RubyMine/bin/rubymine.sh" %f
-Comment=Lightning-smart PHP IDE
 Categories=Development;IDE;
 OnlyShowIn=Unity;GNOME;
 StartupNotify=false
