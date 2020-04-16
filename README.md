@@ -1,4 +1,7 @@
-<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/logo.png" width="120px" /></p>
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/logo.png" width="150px" /></p>
+<p align="center">
+  <a href="#" target="_blank">DOWNLOAD HERE</a>
+</p>
 
 # WebStrongOS
 WebStrongOS is a own Linux distribution created on the basic of Debian 10 intended for coders. 
