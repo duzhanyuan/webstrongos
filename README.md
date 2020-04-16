@@ -1,44 +1,52 @@
 # WebStrongOS
 
-## About Distro
-WebStrongOS is a own distro created basic Debian 9 intended for web programmers. 
-WebStrongOS included the most important tools for web developers - PHP7.2, Ruby on Rails, NodeJS, Composer, Apache2, MySQL DB, MongoDB, PostgreSQL, Sqlite3, Atom, JetBrains programs, Visual Studio Code, Vim, Postman and a lot of more. List of most important packages is below.
+<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/logo.png" width="100px" /></p>
 
-![WebStrongOS](https://github.com/mateuszpijanowski/webstrongos/blob/master/img/LOGO.png)
+## About Distro
+WebStrongOS is a own Linux distribution created on the basic of Debian 10 intended for coders. 
+
+<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/desktop.png" width="500px" /></p>
+
+WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby, Ruby on Rails, Git, NodeJS, Composer, Apache2, MySQL Server, MongoDB Server, PostgreSQL Server, Sqlite3, Atom editor, JetBrains editors, Visual Studio Code, Android Studio, Vim editor, many browsers, Slack, Skype, Postman and a lot of more. List of most important packages is below.
+
+<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/apps.png" width="500px" /></p>
 
 ## Important packages list
--Ant-Dracula Style <br />
+-Android Studio <br />
 -Apache2 Server <br />
 -Atom Editor <br />
 -Brave browser <br />
 -Composer <br />
 -Curl <br />
+-Expo CLI <br />
 -Filezilla <br />
 -FireFox browser <br />
--GIMP <br />
+-Gimp <br />
 -GVim <br />
 -Gedit Editor <br />
 -Git <br />
--Gnome (+basic Gnome packages)
+-Gnome 3.30+ (+basic Gnome packages) <br />
 -Google Chrome <br />
--LibreOffice package <br />
--MongoDB <br />
--MySQL DB <br />
+-GParted <br />
+-ImageMagic <br />
+-LibreOffice programs <br />
+-MongoDB Server <br />
+-MySQL Server <br />
 -Nano CLI editor <br />
 -Net-Tools <br />
 -NodeJS <br />
 -Opera browser <br />
--PHP7.2 <br />
--PHPmyAdmin <br />
--Papirus Icons <br />
+-PHP7.3 <br />
 -PhpStorm <br />
--PostgreSQL <br />
+-PostgreSQL Server <br />
 -Postman <br />
 -PyCharm <br />
 -Python <br />
 -Ruby <br />
 -Ruby on Rails <br />
 -RubyMine <br />
+-React CLI <br />
+-React Native CLI <br />
 -pgAdmin <br />
 -Skype <br />
 -Slack <br />
@@ -51,14 +59,10 @@ WebStrongOS included the most important tools for web developers - PHP7.2, Ruby 
 -WebStorm <br />
 -WireShark
 
-## Browers extensions
--Gnome shell integration <br />
--React Developer Tools <br />
--Redux DevTools <br />
--Usersnap <br />
--Vue.js devtools <br />
--Web Developer <br />
--WhatFont
+## Ant and Papirus design
+WebStrongOS is not only tools and libs it is beautiful design and convenience. All of this thanks by Ant Dracula theme, Papirus Icons and Gnome 3.30!
+
+<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/design.png" width="500px" /></p>
 
 ## Gnome extensions
 -Alernatetab <br />
@@ -84,11 +88,11 @@ WebStrongOS included the most important tools for web developers - PHP7.2, Ruby 
 ## Basic info
 Name: <b>WebStrongOS</b> <br />
 Architecture: <b>AMD64 (x86_64)</b> <br />
-Basic: <b>Debian 9 (Stretch)</b> <br />
-Version: <b>1.2</b> <br />
-ISO size: <b>3,14GB</b> <br />
+Basic: <b>Debian 10 (Buster)</b> <br />
+Version: <b>1.5</b> <br />
+Kernel version: <b>5.4.19</b> <br />
 Type: <b>Hybrid ISO</b>
 
 #### Created by
-Mateusz Pijanowski, <b>powered by WebStrong.pl</b> <br />
+Matt Pijanowski, <b>powered by WebStrong.pl</b> <br />
 <i>GNU GENERAL PUBLIC LICENSE</i>

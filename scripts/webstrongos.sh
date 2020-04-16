@@ -20,5 +20,5 @@ echo -e "                         Date core: \e[32m31082019\e[39m"
 echo
 echo -e " GitHub:\e[21m https://github.com/mateuszpijanowski/webstrongos"
 echo -e " \e[1mPowered by:\e[21m https://WebStrong.pl"
-echo " 2019 © by WebStrong"
+echo " 2020 © by WebStrong"
 echo
