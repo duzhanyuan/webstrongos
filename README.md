@@ -1,11 +1,11 @@
-<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/logo.png" width="90px" /></p>
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/logo.png" width="120px" /></p>
 
 # WebStrongOS
 WebStrongOS is a own Linux distribution created on the basic of Debian 10 intended for coders. 
 
 <p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/desktop.png" width="600px" /></p>
 
-#### Lots of useful tools and libs
+### Lots of useful tools and libs
 WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby, Ruby on Rails, Git, NodeJS, Composer, Apache2, MySQL Server, MongoDB Server, PostgreSQL Server, Sqlite3, Atom editor, JetBrains editors, Visual Studio Code, Android Studio, Vim editor, many browsers, Slack, Skype, Postman and a lot of more. List of most important packages is below.
 
 <p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/apps.png" width="600px" /></p>
