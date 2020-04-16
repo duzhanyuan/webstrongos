@@ -1,15 +1,16 @@
-# WebStrongOS
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/logo.png" width="90px" /></p>
 
-<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/logo.png" width="100px" /></p>
+# WebStrongOS
 
 ## About Distro
 WebStrongOS is a own Linux distribution created on the basic of Debian 10 intended for coders. 
 
-<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/desktop.png" width="500px" /></p>
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/desktop.png" width="600px" /></p>
 
+#### Lots of useful tools and libs
 WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby, Ruby on Rails, Git, NodeJS, Composer, Apache2, MySQL Server, MongoDB Server, PostgreSQL Server, Sqlite3, Atom editor, JetBrains editors, Visual Studio Code, Android Studio, Vim editor, many browsers, Slack, Skype, Postman and a lot of more. List of most important packages is below.
 
-<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/apps.png" width="500px" /></p>
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/apps.png" width="600px" /></p>
 
 ## Important packages list
 -Android Studio <br />
@@ -59,26 +60,27 @@ WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby
 -WebStorm <br />
 -WireShark
 
-## Ant and Papirus design
+## Ant Dracula and Papirus design
 WebStrongOS is not only tools and libs it is beautiful design and convenience. All of this thanks by Ant Dracula theme, Papirus Icons and Gnome 3.30!
 
-<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/design.png" width="500px" /></p>
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/design.png" width="600px" /></p>
 
 ## Gnome extensions
 -Alernatetab <br />
 -Applications menu <br />
 -Apt-update indicator <br />
 -Auto move windows <br />
--Clipboard indicator <br />
 -Coverflow alt-tab <br />
 -Dash to dock <br />
 -Easyscreencast <br />
 -Launch new instance <br />
 -Native windows placment <br />
--Netspeed <br />
 -Places status indicator <br />
 -Removable drive menu <br />
+-Screenshot tool <br />
 -Screenshot widnow sizer <br />
+-Minimalizeall <br />
+-Tweaks in system menu <br />
 -User themes <br />
 -Windows list <br />
 -Workspace indicator <br />
