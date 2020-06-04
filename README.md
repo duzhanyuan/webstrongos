@@ -1,15 +1,16 @@
 <p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/logo.png" width="150px" /></p>
+<p align="center"><i>Version: 1.5</i></p>
 <p align="center">
   <a href="#" target="_blank">DOWNLOAD HERE</a>
 </p>
 
 # WebStrongOS
-WebStrongOS is a own Linux distribution created on the basic of Debian 10 intended for coders. 
+WebStrongOS is a custom Linux distribution created on the basic of Debian 10 intended for coders and developers. WS includes lots of useful tools and libs with clear design.
 
 <p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/desktop.png" width="600px" /></p>
 
 ### Lots of useful tools and libs
-WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby, Ruby on Rails, Git, NodeJS, Composer, Apache2, MySQL Server, MongoDB Server, PostgreSQL Server, Sqlite3, Atom editor, JetBrains editors, Visual Studio Code, Android Studio, Vim editor, many browsers, Slack, Skype, Postman and a lot of more. List of most important packages is below.
+WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby, Ruby on Rails, Git, NodeJS, Composer, Apache2, MySQL Server, MongoDB Server, PostgreSQL Server, Sqlite3, Atom editor, JetBrains editors, Visual Studio Code, Android Studio, Vim editor, many browsers, Slack, Skype, Postman and a lots of more. List of most important packages is below.
 
 <p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/apps.png" width="600px" /></p>
 
@@ -36,7 +37,7 @@ WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby
 -MySQL Server <br />
 -Nano CLI editor <br />
 -Net-Tools <br />
--NodeJS <br />
+-NodeJS v12 <br />
 -Opera browser <br />
 -PHP7.3 <br />
 -PhpStorm <br />
@@ -93,9 +94,9 @@ Name: <b>WebStrongOS</b> <br />
 Architecture: <b>AMD64 (x86_64)</b> <br />
 Basic: <b>Debian 10 (Buster)</b> <br />
 Version: <b>1.5</b> <br />
-Kernel version: <b>5.4.19</b> <br />
+Kernel version: <b>5.4.0</b> <br />
 Type: <b>Hybrid ISO</b>
 
 #### Created by
 Matt Pijanowski, <b>powered by WebStrong.pl</b> <br />
-<i>GNU GENERAL PUBLIC LICENSE</i>
+###### <i>GNU GENERAL PUBLIC LICENSE</i>
