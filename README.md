@@ -63,26 +63,27 @@ WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby
 -WebStorm <br />
 -WireShark
 
-## Ant and Papirus design
+## Ant Dracula and Papirus design
 WebStrongOS is not only tools and libs it is beautiful design and convenience. All of this thanks by Ant Dracula theme, Papirus Icons and Gnome 3.30!
 
-<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/design.png" width="500px" /></p>
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/design.png" width="600px" /></p>
 
 ## Gnome extensions
 -Alernatetab <br />
 -Applications menu <br />
 -Apt-update indicator <br />
 -Auto move windows <br />
--Clipboard indicator <br />
 -Coverflow alt-tab <br />
 -Dash to dock <br />
 -Easyscreencast <br />
 -Launch new instance <br />
 -Native windows placment <br />
--Netspeed <br />
 -Places status indicator <br />
 -Removable drive menu <br />
+-Screenshot tool <br />
 -Screenshot widnow sizer <br />
+-Minimalizeall <br />
+-Tweaks in system menu <br />
 -User themes <br />
 -Windows list <br />
 -Workspace indicator <br />
