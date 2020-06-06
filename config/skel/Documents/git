@@ -1,0 +1,29 @@
+### Git basic tutorial by Matt Piajnowski ###
+
+# Basic
+git init - Create empty local repository
+git remote add origin [url] - Add new remote
+git add . - Update local idex repository
+git commit -m"[commit comment]" - Add commit comment
+git push - Push local repository to remote server
+
+# Branch
+git branch [branch name] - Create new branch
+git checkout [branch name] - Switch branch
+git merge [branch name] - Merge branch
+git branch -D [branch name] - Remove local branch
+git push --delete [remote name] [branch name] - Remove remote branch
+
+# Commit
+git reset --hard [HEAD - e.g origin/master] - Remove a commit before pushed:
+git reset --hard [commit key] && git push -f - Remove pushed commit
+git reset --soft [commit key] && git commit -m "[new comment]" && git push -f - Change commit comment:
+
+# Other
+git status - Local repository status
+git remote -v - Remote list
+git rebase - Repository synchronization with remote
+git remote set-url origin [new remote url] - Edit remotes
+git fetch origin && git pull [remote branch name] - Synchronize local branch with remote branch
+
+### WebStrongOS ###

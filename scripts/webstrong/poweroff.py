@@ -1,7 +1,10 @@
+# PowerOff - shutdown and reboot script with auto updates
+# Created by Matt Pijanowski (WebStrong)
+
 import os
 import sys
 
-before_sd = 'echo WebStrongOS 1.3 && echo'
+before_sd = 'echo WebStrongOS 1.5 && echo'
 sd_params = ''
 time = 'now'
 
@@ -25,7 +28,6 @@ def shutdown(params):
     for i in range(len(params)):
         find_param(i)
 
-    # print 'sudo -- su -c "'"{} && shutdown{} -h {}"'"'.format(before_sd, sd_params, time)
     os.system('sudo -- su -c "'"{} && shutdown{} {}"'"'.format(before_sd, sd_params, time))
     exit(0)
 
