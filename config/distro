@@ -38,7 +38,7 @@ apt-get purge linux-image-4.* -y
 dpkg -l | grep linux-image
 
 # Basic Packages
-apt update && apt install sudo curl nano gedit apache2 git wireshark gimp filezilla gparted vim net-tools gnome ruby-full rails rubygems sqlite3 build-essential python2.7 python3 python-pip python3-pip gawk autoconf automake bison libffi-dev libgdbm-dev libncurses5-dev libsqlite3-dev libtool libyaml-dev pkg-config zlib1g-dev libgmp-dev libreadline-dev libssl-dev libcurl4 wget apt-transport-https -y
+apt update && apt install sudo curl nano gedit apache2 git wireshark gimp filezilla gparted vim net-tools gnome ruby-full rails rubygems sqlite3 build-essential python2.7 python3 python-pip python3-pip gawk autoconf automake bison libffi-dev libgdbm-dev libncurses5-dev libsqlite3-dev libtool libyaml-dev pkg-config zlib1g-dev libgmp-dev libreadline-dev libssl-dev libcurl4 wget apt-transport-https inkscape -y
 
 apt-cache policy libssl-dev
 
@@ -69,7 +69,7 @@ echo "deb http://repo.mongodb.org/apt/debian buster/mongodb-org/4.2 main" | sudo
 apt update && apt install openssl mongodb-org mongodb-org-server -y
 
 # NodeJS
-curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 apt update && sudo apt-get install -y nodejs
 
 # Brave
@@ -94,7 +94,6 @@ make
 make install 
 ldconfig /usr/local/lib
 cd .. && rm -r ImageMagick*
-magick -version
 
 # Vue CLI
 npm cache verify
@@ -114,9 +113,9 @@ npm install -g expo-cli
 apt-get install lib32stdc++6 -y
 
 # Slack
-wget https://downloads.slack-edge.com/linux_releases/slack-desktop-4.4.2-amd64.deb
-dpkg -i slack-desktop-4.4.2-amd64.deb
-rm slack-desktop-4.4.2-amd64.deb
+wget https://downloads.slack-edge.com/linux_releases/slack-desktop-4.4.3-amd64.deb
+dpkg -i slack-desktop-4.4.3-amd64.deb
+rm slack-desktop-4.4.3-amd64.deb
 
 # Stacer
 wget https://github.com/oguzhaninan/Stacer/releases/download/v1.1.0/stacer_1.1.0_amd64.deb
@@ -176,7 +175,7 @@ chmod -R 755 /home/matt/Documents/ws2/scripts/* && cp -r /home/matt/Documents/ws
 Step 7 (in CHROOT)
 
 # Remove unnecessary programs
-apt autoremove gnome-color* gnome-contacts gnome-dictionary gnome-games gnome-klotski gnome-mahjongg gnome-mines gnome-nibbles gnome-robots gnome-sudoku gnome-taquin gnome-user-guide gnome-weather polari inkscape gnome-documents cheese evolution tracker gnome-maps rhythmbox simple-scan transmission* vinagre -y && apt install nautilus -y
+apt autoremove gnome-color* gnome-contacts gnome-dictionary gnome-games gnome-klotski gnome-mahjongg gnome-mines gnome-nibbles gnome-robots gnome-sudoku gnome-taquin gnome-user-guide gnome-weather polari gnome-documents cheese evolution tracker gnome-maps rhythmbox simple-scan transmission* vinagre -y && apt install nautilus -y
 
 Step 8 (in CHROOT)
 

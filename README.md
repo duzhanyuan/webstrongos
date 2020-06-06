@@ -1,15 +1,18 @@
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/logo.png" width="150px" /></p>
+<p align="center"><i>Version: 1.5</i></p>
+<p align="center">
+  <a href="https://mega.nz/file/f3JhQS4B#c21ijHStt0A0AY7v-Z1gA0_mLa_llcUpswgQFziL9uU" target="_blank">DOWNLOAD HERE</a>
+</p>
+
 # WebStrongOS
+WebStrongOS is a custom Linux distribution created on the basic of Debian 10 intended for coders and developers. WS includes lots of useful tools and libs with clear design.
 
-<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/logo.png" width="100px" /></p>
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/desktop.png" width="600px" /></p>
 
-## About Distro
-WebStrongOS is a own Linux distribution created on the basic of Debian 10 intended for coders. 
+### Lots of useful tools and libs
+WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby, Ruby on Rails, Git, NodeJS, Composer, Apache2, MySQL Server, MongoDB Server, PostgreSQL Server, Sqlite3, Atom editor, JetBrains editors, Visual Studio Code, Android Studio, Vim editor, many browsers, Slack, Skype, Postman and a lots of more. List of most important packages is below.
 
-<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/desktop.png" width="500px" /></p>
-
-WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby, Ruby on Rails, Git, NodeJS, Composer, Apache2, MySQL Server, MongoDB Server, PostgreSQL Server, Sqlite3, Atom editor, JetBrains editors, Visual Studio Code, Android Studio, Vim editor, many browsers, Slack, Skype, Postman and a lot of more. List of most important packages is below.
-
-<p align="center"><img src="https://github.com/mateuszpijanowski/webstrongos/blob/master/assets/apps.png" width="500px" /></p>
+<p align="center"><img src="https://github.com/webstrongteam/webstrongos/blob/1.5/assets/apps.png" width="600px" /></p>
 
 ## Important packages list
 -Android Studio <br />
@@ -29,12 +32,13 @@ WebStrongOS included the most important tools and libs for coders - PHP7.3, Ruby
 -Google Chrome <br />
 -GParted <br />
 -ImageMagic <br />
+-Inkscape <br />
 -LibreOffice programs <br />
 -MongoDB Server <br />
 -MySQL Server <br />
 -Nano CLI editor <br />
 -Net-Tools <br />
--NodeJS <br />
+-NodeJS 12 <br />
 -Opera browser <br />
 -PHP7.3 <br />
 -PhpStorm <br />
@@ -89,10 +93,10 @@ WebStrongOS is not only tools and libs it is beautiful design and convenience. A
 Name: <b>WebStrongOS</b> <br />
 Architecture: <b>AMD64 (x86_64)</b> <br />
 Basic: <b>Debian 10 (Buster)</b> <br />
+Kernel version: <b>5.5.0</b> <br />
 Version: <b>1.5</b> <br />
-Kernel version: <b>5.4.19</b> <br />
 Type: <b>Hybrid ISO</b>
 
 #### Created by
 Matt Pijanowski, <b>powered by WebStrong.pl</b> <br />
-<i>GNU GENERAL PUBLIC LICENSE</i>
+###### <i>GNU GENERAL PUBLIC LICENSE</i>

@@ -1,5 +1,5 @@
 # GEditRoot - GEdit with admin permission 
-# Created by Matt Pijanowski (WebStrongTeam)
+# Created by Matt Pijanowski (WebStrong)
 
 import os
 import sys

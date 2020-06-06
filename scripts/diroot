@@ -1,4 +1,4 @@
 #!/bin/sh
-# Created by Mateusz Pijanowski (WebStrong)
+# Created by Matt Pijanowski (WebStrong)
 
 python /bin/webstrong/diroot.py $*
